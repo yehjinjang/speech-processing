@@ -1,0 +1,11 @@
+__pycache__/
+*.log
+*.csv
+*.wav
+*.mp3
+*.json
+*.txt
+.DS_Store
+
+data/
+new-recorded/
